@@ -8,6 +8,7 @@ I 'm currently preparing for the certificate as a Digital Technologies Architect
 
 🛠️ Tech Stack :
 Languages: C, Python.
+
 Tools: Git, VSCode.
 
 💻 IT Projects :
