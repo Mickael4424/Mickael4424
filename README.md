@@ -1,25 +1,17 @@
 ## Hi there 👋
 
 🧑‍💻 About me :
-
 IT Student at 42 Nice.
 I 'm currently preparing for the certificate as a Digital Technologies Architect.
 
-
 🌍 Location: Nice (France).
 
-
 🛠️ Tech Stack
-
 Languages: C, Python
 Tools: Git, VSCode.
 
-
 💻 IT Projects :
 
-Milestone 0 : Libft
-
-Milestone 1 : Printf, Get_next_line, Push_swap
 
 
 
