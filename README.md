@@ -6,8 +6,8 @@ I 'm currently preparing for the certificate as a Digital Technologies Architect
 
 🌍 Location: Nice (France).
 
-🛠️ Tech Stack
-Languages: C, Python
+🛠️ Tech Stack :
+Languages: C, Python.
 Tools: Git, VSCode.
 
 💻 IT Projects :
